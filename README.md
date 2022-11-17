@@ -25,4 +25,4 @@ El flujo comienza en la rama **develop** en la cual se añanden los cambios hech
 
 ## Conclusiones
 
-![](https://media.tenor.com/Bu8M0Ol2sQIAAAAC/heart-corazon.gif)
+
