@@ -21,7 +21,7 @@ El objetivo de este repositorio en mostrar el ciclo de vida de un proyecto en De
 * Develop (Desarrollo)
 
 ## Instrucciones de uso
-El flujo comienza en la rama **develop** en la cual se añanden los cambios hechos por el desarrollador, apenas se detecten nuevos cambios en **DEV** se crea la imagen en DockerHub, luego se deben pasar los cambnios a **QA** para ser analizado por el SonarQube. Posteriormente se debe hace un Pull Request desde **QA** hasta **Master** y apenas sea aprovado el Pull Request se desplegara la imagen hecha en **DEV**
+El flujo comienza en la rama **develop** en la cual se añanden los cambios hechos por el desarrollador, apenas se detecten nuevos cambios en **DEV** se crea la imagen en DockerHub, luego se deben pasar los cambios a **QA** para ser analizado por el SonarQube. Posteriormente se debe hace un Pull Request desde **QA** hasta **Master** y apenas sea aprovado el Pull Request se desplegara la imagen hecha en **DEV**
 
 ## Conclusiones
 - Para este proyecto se tiene en cuenta conceptos de despligue y aplicacion en las herramientas: "Docker","SonarQube","YAML".
